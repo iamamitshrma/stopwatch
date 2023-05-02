@@ -39,8 +39,8 @@
 .start_btn {
   border: none;
   background-color: darkslategray;
-  margin-right: 20px;
   color: white;
+  margin-bottom: 10px;
 }
 
 .stop_btn {
